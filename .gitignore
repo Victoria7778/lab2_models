@@ -1,0 +1,27 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/  # Тимчасові контрольні точки Jupyter
+.vscode/             # Налаштування робочої області VS Code
+*~
+
+venv/
+env/
+.venv/
+
+
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+
+/logs/
+/outputs/
+/results/
+
+
+.DS_Store  # macOS
+Thumbs.db  # Windows
