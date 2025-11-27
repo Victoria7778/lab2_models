@@ -61,6 +61,12 @@
 
 
 ------------------------------------------------------------------------
+#### Посилання на статті
+- 1. SciTePress. Evaluating Transformer-Based Models for Academic Text Classification (2024). Available at: https://www.scitepress.org/Papers/2024/129980/129980.pdf
+- 2.   ResearchGate. Comparative Analysis of Machine Learning and Neural Network Models for Wine Quality Prediction. Available at: https://www.researchgate.net/publication/372078144_Comparative_Analysis_of_Machine_Learning_and_Neural_Network_Models_for_Wine_Quality_Prediction
+
+
+
 
 ## Висновок
 
